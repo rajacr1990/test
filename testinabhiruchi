@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="ts358" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11427-j9jqsuf4-v1/imageContent-11427-j9jqsuf4-m1.jpg" group-title="TP🧚Kannada",ETV Abhiruchi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://elitetv.elitebeam9.workers.dev/tp?id=358&token=doordie
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/rajacr1990/test/refs/heads/main/mpd_abhiruchi_tp
